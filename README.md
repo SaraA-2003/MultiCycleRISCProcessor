@@ -19,7 +19,7 @@ This project involves the design and verification of a multi-cycle RISC processo
 
 ## How to Run the Project
 1. Ensure you have a Verilog simulation tool such as Active-HDL,or another Verilog simulator.
-2. Compile the Verilog files using the simulator.
+2. Compile the Verilog file using the simulator.
 3. Run the simulation with the provided testbenches to verify the functionality of the processor.
 
 ## Instructions Set
