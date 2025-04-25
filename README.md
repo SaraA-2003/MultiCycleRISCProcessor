@@ -9,6 +9,9 @@ This project involves the design and verification of a multi-cycle RISC processo
 - Load/store instructions for memory access
 - Branching instructions for conditional execution
 - Multi-cycle datapath to optimize resource utilization
+- MIPS-style instruction encoding
+- ALU with zero detection
+-   
 
 ## Project Structure
 - **Verilog code**: Contains the processor design files, including datapath and control path modules
